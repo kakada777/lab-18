@@ -1,0 +1,123 @@
+.nav-2{
+  background-color: #921313;
+  
+}
+.nav-2 nav li a{
+  color: white;
+  font-size: 15px;
+}
+.navbar-nav{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-img{
+  width: 150px;
+}
+.first-nav a{
+  font-size: 10px;
+}
+.bg-maroon {
+  background-color: #800000;
+  color: white;
+}
+.text-maroon {
+  color: #800000;
+}
+.highlight {
+  color: #FF0000;
+}
+.card-header {
+  font-weight: bold;
+}
+.yk ul li { 
+  margin-top: 10px;
+  list-style-type: none;
+}
+.yk ul li a{ 
+  
+  text-decoration: none;
+}
+.yk ul li a:hover{ 
+  text-decoration: underline;
+}
+
+.box-2 a{ 
+  
+  text-decoration: none;
+}
+.box-2 a:hover{ 
+  text-decoration: underline;
+}
+.img-1{
+  width: 200px;
+  height: 200px;
+}
+.img-2{
+  width: 250px;
+  height: 300px;
+}
+.university{
+  margin-top: -220px;
+}
+.NOTICE{
+  margin-top: 220px;
+}
+@media (max-width:1000px) {
+  .university{
+    margin-top: 0px;
+  }
+  .NOTICE{
+    margin-top:0px;
+  }
+}
+.img-overview{
+  
+  width: 120px;
+}
+.over-img{
+  margin-left: 20px;
+}
+.subscribe-section {
+    background-color: #800000;
+    color: white;
+    padding: 20px;
+}
+.subscribe-box {
+    background-color: #f8f9fa; 
+    padding: 20px;
+    text-align: center;
+}
+.subscribe-box input {
+    border-radius: 0;
+}
+.subscribe-box .btn {
+    border-radius: 0;
+    background-color: #800000;
+    color: white;
+}
+.social-icons a {
+    display: block;
+    margin: 10px 0;
+    text-decoration: none;
+    color: #800000;
+    font-weight: bold;
+}
+.social-icons a:hover {
+    text-decoration: underline;
+}
+.custom-footer {
+  background-color: #f8f9fa;
+  color: #000; 
+  border-top: 2px solid #8b0000; 
+  padding: 10px 0;
+  font-size: 14px;
+}
+.custom-footer a {
+  color: #8b0000; 
+  text-decoration: none;
+}
+.custom-footer a:hover {
+  text-decoration: underline;
+}
